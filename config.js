@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By DK BOSS.
+   * Contact Me on wa.me/918955953704
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','62895336722950','6287721317870','6288292024190']
+global.owner = ['918955953704','918955953704','918955953704','918955953704']
 global.premium = ['6288292024190']
 global.packname = 'Hisoka Morrow'
 global.author = 'WhatsApp Bot'
